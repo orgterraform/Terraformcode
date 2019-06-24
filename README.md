@@ -1,4 +1,4 @@
-Terraorm code to create user for each environments
+Terraorm code to create users for each environment
 
 Step 1) clone the Git https://github.com/orgterraform/Terraformcode.git
 Step 2) Run the following commands:
